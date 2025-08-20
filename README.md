@@ -1,1 +1,1 @@
-# Fantasy-draft-order-generator
+# fantasy-draft-order-generator
